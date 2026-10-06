@@ -1,0 +1,9 @@
+Customer Name : Cedie Gonzaga
+VIP Status    : true
+Items Ordered : 7
+Unit Price    : $125.5
+----------------------------------------
+Subtotal      : $878.5
+Boxes Needed  : 2 (3 items per box)
+Loose Items   : 1
+Free Shipping : true
